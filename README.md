@@ -1,4 +1,4 @@
-# Differential Equation Linear Time-Invariant (LTI) System Plotter
+# Differential Equation Linear Time-Invariant (LTI) System Mapper
 
 This program considers the discrete-time LTI system characterized by the following differenceequation with input and initial conditions specified:
 y[n]-3y[n-1]+2y[n-2] =x[n], with y[0] = 1 and y[1] =-1,x[n] = (1/2)^n*u[n-2]
